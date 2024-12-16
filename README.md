@@ -36,7 +36,7 @@ The dashboard is organized into **5 focused views**, providing a 360° perspecti
 
 —
 
-##Live Dashboard
+## Live Dashboard
 
 Explore the Live dashboard here:
 
@@ -58,9 +58,9 @@ Explore the Live dashboard here:
 
 ### 🔑 Key Learnings
 
-- 1.End-to-end Power BI development, from **data connection (MySQL) to visualization**
-- 2.Created actionable dashboards using **DAX calculations, data modeling, and interactive visuals**.
-- 3.Provided a comprehensive 360° analysis to address business problems effectively.
+- End-to-end Power BI development, from **data connection (MySQL) to visualization**
+- Created actionable dashboards using **DAX calculations, data modeling, and interactive visuals**.
+- Provided a comprehensive 360° analysis to address business problems effectively.
 
 ---
 
