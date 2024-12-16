@@ -38,9 +38,7 @@ The dashboard is organized into **5 focused views**, providing a 360° perspecti
 
 ## Live Dashboard
 
-Explore the Live dashboard here:
-
-**[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzA3YTc4YTQtYTdhOS00N2NiLTlhZGMtNmU3NzljZDNhOGVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
+Explore the Live dashboard here:**[Business Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzA3YTc4YTQtYTdhOS00N2NiLTlhZGMtNmU3NzljZDNhOGVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
 
 ## Business Impacts
 
@@ -73,8 +71,8 @@ Feel free to add your questions and code snippets below and submit them as issue
 ## Contact Me
 
 
-📄 **[Resume](https://drive.google.com/file/d/1MprFBFLA7zugNGkSlYkCJwafZDyyVYur/view?usp=sharing)**  
-📧 **[Email](mailto:surekafathimasf2003@gmail.com)**  
-📞 **Phone**: +91 82481 25454
+📄 [Resume](https://drive.google.com/file/d/1MprFBFLA7zugNGkSlYkCJwafZDyyVYur/view?usp=sharing)
+📧 [Email](mailto:surekafathimasf2003@gmail.com)  
+📞 Phone: +91 82481 25454
 ---
 
