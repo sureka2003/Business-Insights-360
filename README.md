@@ -70,9 +70,11 @@ Feel free to add your questions and code snippets below and submit them as issue
 
 ## Contact Me
 
+📄 **[Resume]**(https://drive.google.com/file/d/1MprFBFLA7zugNGkSlYkCJwafZDyyVYur/view?usp=sharing)
+📧 **[Email]**(mailto:surekafathimsf2003@gmail.com) 
+📞 **Phone**: +91 82481 25454
 
-📄 [Resume](https://drive.google.com/file/d/1MprFBFLA7zugNGkSlYkCJwafZDyyVYur/view?usp=sharing)
-📧 [Email](mailto:surekafathimasf2003@gmail.com)  
-📞 Phone: +91 82481 25454
 ---
+
+
 
