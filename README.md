@@ -1,4 +1,4 @@
-#Business Insights 360 - A Data-Driven Solution for Atliq Hardwares🎉
+# Business Insights 360 - A Data-Driven Solution for Atliq Hardwares🎉
 
 ![Project Banner Placeholder](https://github.com/najirh/Flipkart--SQL-Project-B01/blob/main/flipkart.jpg)
 
@@ -71,6 +71,7 @@ Feel free to add your questions and code snippets below and submit them as issue
 ---
 
 ## Contact Me
+
 
 📄 **[Resume](https://drive.google.com/file/d/1MprFBFLA7zugNGkSlYkCJwafZDyyVYur/view?usp=sharing)**  
 📧 **[Email](mailto:surekafathimasf2003@gmail.com)**  
