@@ -1,6 +1,6 @@
 # Business Insights 360 - A Data-Driven Solution for Atliq Hardwares🎉
 
-![Project Banner Placeholder](https://github.com/najirh/Flipkart--SQL-Project-B01/blob/main/flipkart.jpg)
+![Project Banner Placeholder](https://github.com/sureka2003/Business-Insights-360/blob/main/AtliQ%20Designed%20logo%20for%20Github%20repo.jpg)
 
 Welcome to **Business Insights 360**, an end-to-end Power BI project designed to transform raw data into actionable insights. 🚀
 In this project, I’ve analyzed Atliq Hardware’s business performance across **Finance, Sales & Marketing, Supply Chain, and Executive-level KPIs** to empower stakeholders with a **360° view** of their operations. Explore the insights, interact with the visuals, and see how data can unlock opportunities for business growth! 
