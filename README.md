@@ -44,10 +44,10 @@ Explore the Live dashboard here:
 
 ## Business Impacts
 
-**Improved Decision-Making**: Empowered stakeholders to make data-driven decisions by providing clear, visual insights into key metrics such as revenue, profit, and customer trends.
-**Enhanced Sales & Marketing Strategy**: Allowed for targeted analysis of customers, products, and operational expenses, leading to optimized resource allocation and refined marketing strategies.
-**Operational Efficiency**: Provided visibility into supply chain performance, focusing on net error rates and forecast accuracy, resulting in better demand planning and reduced inefficiencies.
-**Profitability Growth**:Identified focus areas to achieve the 10% incremental profit target
+-**Improved Decision-Making**: Empowered stakeholders to make data-driven decisions by providing clear, visual insights into key metrics such as revenue, profit, and customer trends.
+-**Enhanced Sales & Marketing Strategy**: Allowed for targeted analysis of customers, products, and operational expenses, leading to optimized resource allocation and refined marketing strategies.
+-**Operational Efficiency**: Provided visibility into supply chain performance, focusing on net error rates and forecast accuracy, resulting in better demand planning and reduced inefficiencies.
+-**Profitability Growth**:Identified focus areas to achieve the 10% incremental profit target
 
 
 ## 📥Getting Started
